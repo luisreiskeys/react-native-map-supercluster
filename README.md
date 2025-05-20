@@ -3,8 +3,8 @@
 A lightweight, dependency-minimized library for clustering markers on **react-native-maps**. Built as a modern alternative and continuation of the now unmaintained `react-native-map-clustering`.
 
 <p align="center" >
-  <img src="./assets/IOSDemo.gif" width="25%" style="margin-right: 10px;" />
-  <img src="./assets/AndroidDemo.gif" width="25%" />
+  <img src="./assets/IOSDemo.gif" height="400" style="margin-right: 10px;" />
+  <img src="./assets/AndroidDemo.gif" height="400" />
 </p>
 
 [![npm version](https://img.shields.io/npm/v/react-native-map-supercluster.svg)](https://www.npmjs.com/package/react-native-map-supercluster)
