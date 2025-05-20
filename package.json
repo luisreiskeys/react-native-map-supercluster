@@ -1,6 +1,6 @@
 {
   "name": "react-native-map-supercluster",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "description": "Customizable clustering component for react-native-maps using SuperCluster. . Based on the original react-native-map-clustering by @tomekvenits.",
   "keywords": [

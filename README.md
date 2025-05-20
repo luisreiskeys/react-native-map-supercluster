@@ -114,7 +114,7 @@ export default function App() {
 
 ## Credits
 
-This package is inspired by [`react-native-map-clustering`](https://github.com/tomekvenits/react-native-map-clustering) by @tomekvenits. As that library is no longer maintained, we built this from scratch to continue its legacy and simplify clustering logic.
+This package is based on react-native-map-clustering by @tomekvenits. Since that library is no longer maintained, we adapted its original codebase — fixing compatibility issues (especially with the new React Native architecture), resolving Android-specific bugs, and introducing a few enhancements to improve flexibility and ease of use.
 
 ---
 
