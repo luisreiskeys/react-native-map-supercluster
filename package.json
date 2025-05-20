@@ -1,0 +1,37 @@
+{
+  "name": "react-native-map-supercluster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Customizable clustering component for react-native-maps using SuperCluster. . Based on the original react-native-map-clustering by @tomekvenits.",
+  "keywords": [
+    "react-native",
+    "map",
+    "cluster",
+    "supercluster",
+    "react-native-maps"
+  ],
+  "author": "Luís Reis <izohenrique@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisreiskeys/react-native-map-supercluster"
+  },
+  "homepage": "https://github.com/luisreiskeys/react-native-map-supercluster#readme",
+  "contributors": [
+    {
+      "name": "Luís Reis",
+      "email": "izohenrique@gmail.com"
+    },
+    {
+      "name": "Original base by @tomekvenits",
+      "url": "https://github.com/tomekvenits/react-native-map-clustering"
+    }
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.64.0",
+    "react-native-maps": ">=0.30.0"
+  },
+  "dependencies": {
+    "supercluster": "^8.0.1"
+  }
+}
