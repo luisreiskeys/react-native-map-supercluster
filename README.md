@@ -112,17 +112,9 @@ export default function App() {
 
 🚨 **Warning:** Due to current architectural limitations in Expo Go, dynamic cluster rendering may result in crashes or unresponsiveness. We recommend using **React Native CLI** for production apps. A future update may introduce Expo compatibility.
 
----
-
-## Demo
-
-_Add demo gif or screenshot here after publishing_
-
----
-
 ## Credits
 
-This package is inspired by [`react-native-map-clustering`](https://github.com/venits/react-native-map-clustering) by @venits. As that library is no longer maintained, we built this from scratch to continue its legacy and simplify clustering logic.
+This package is inspired by [`react-native-map-clustering`](https://github.com/tomekvenits/react-native-map-clustering) by @tomekvenits. As that library is no longer maintained, we built this from scratch to continue its legacy and simplify clustering logic.
 
 ---
 
