@@ -1,2 +1,2 @@
-import ClusteredMapView from "./src/ClusteredMapViewClusteredMapView";
+import ClusteredMapView from "./src/ClusteredMapView";
 export default ClusteredMapView;
